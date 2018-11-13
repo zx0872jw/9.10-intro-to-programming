@@ -1,6 +1,6 @@
 # 9.10-intro-to-programming
-# write this on the 3rd line... class ItemToPurchase:
 
+class ItemToPurchase:
     def __init__(self):
         self.item_name = "none"
         self.item_price = 0
